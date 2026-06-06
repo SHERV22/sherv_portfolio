@@ -35,7 +35,7 @@ export default function Navigation() {
                     href="#"
                     className="font-serif text-xl text-cream tracking-tight hover:text-olive transition-colors duration-300"
                 >
-                    sherv.
+                    Sherwin Gonsalves
                 </a>
 
                 <div className="hidden md:flex items-center gap-8">
