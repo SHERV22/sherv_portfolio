@@ -12,7 +12,7 @@ export const featuredProjects: Project[] = [
     description:
       "End-to-end supply chain analytics platform with predictive modeling and real-time monitoring.",
     techStack: ["Python", "FastAPI", "React", "PostgreSQL", "TensorFlow"],
-    liveUrl: "https://github.com/41vi4p/SCARO",
+    liveUrl: "https://scaro-lb3k.vercel.app/",
     githubUrl: "https://github.com/41vi4p/SCARO",
   },
   {
@@ -24,11 +24,11 @@ export const featuredProjects: Project[] = [
     githubUrl: "https://github.com/SC136/CoverLetter",
   },
   {
-    title: "Krushak - AI-Powered Crop Disease Detection",
+    title: "BEACON - Web Accessibility & Security Auditing Platform",
     description:
-      "AI-driven mobile app for farmers to identify crop diseases and receive treatment recommendations.",
-    techStack: ["Flutter", "TensorFlow Lite", "Kotlin", "Dart"],
-    liveUrl: "https://github.com/TSROW-Studio/Krushak",
-    githubUrl: "https://github.com/TSROW-Studio/Krushak",
+      "AI-powered platform for web accessibility & security auditing.",
+    techStack: ["Python", "TypeScript", "Neo4j", "NextJs", "NextJS"],
+    liveUrl: "https://github.com/SHERV22/BEACON",
+    githubUrl: "https://github.com/SHERV22/BEACON",
   },
 ];
